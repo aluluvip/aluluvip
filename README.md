@@ -1,9 +1,3 @@
-## [一只路路的博客](https://aluluvip.github.io)
-
-一只路路的博客，基于 Hexo+Github+[Typora](https://www.typora.io/)+[SourceTree](https://www.sourcetreeapp.com/)+Git 工具搭建，正在研究，稍后就来~
-
-<br/>
-
 😍My博客地址：[点击进入](https://aluluvip.github.io)
 
 💎Github地址：[点击进入](https://github.com/aluluvip)
