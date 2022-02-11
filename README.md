@@ -1,6 +1,6 @@
 # README
 
-![](https://luluvippic.oss-cn-beijing.aliyuncs.com/img/wxtx.gif)
+![123](https://luluvippic.oss-cn-beijing.aliyuncs.com/img/wxtx.gif)
 
 😍My博客地址：[点击进入](https://aluluvip.github.io)
 
