@@ -2,7 +2,7 @@
 
 <table width="100%">
     <tr>
-        <td rowspan="4" width="30%"><img src="img/wxtx.gif" style="zoom:50%;"></td>
+        <td rowspan="4" width="30%" align="center"><img src="img/wxtx.gif" style="width:50%; height:auto;"></td>
         <td>😍&nbsp;博客地址：<a href="https://aluluvip.github.io">点击进入</a></td>
     </tr>
     <tr>
