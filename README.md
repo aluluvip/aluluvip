@@ -6,7 +6,7 @@
 > 君子性非异也，善假于物也 ——《荀子·劝学》
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=aluluvip&show_icons=true&theme=Gradient" width="450px">
+<img src="https://github-readme-stats.vercel.app/api?username=aluluvip&show_icons=true&theme=Gradient" width="425px">
 
 <table width="100%">
     <tr>
