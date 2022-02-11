@@ -1,6 +1,8 @@
-# README
 
-![123](img/wxtx.gif)
+
+<img src="img/wxtx.gif" width="50%" height="50%">
+
+<br/>
 
 😍My博客地址：[点击进入](https://aluluvip.github.io)
 
