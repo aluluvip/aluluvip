@@ -7,7 +7,7 @@
 
 
 <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=aluluvip&show_icons=true&theme=Gradient" width="50%" float="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=aluluvip&show_icons=true&theme=Gradient" style="float: left;">
 
 <table width="48%" >
     <tr>
