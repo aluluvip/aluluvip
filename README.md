@@ -5,12 +5,9 @@
 
 > 君子性非异也，善假于物也 ——《荀子·劝学》
 
-<div class="a" style="float:left;width:48%;height:168px">
-<img src="https://github-readme-stats.vercel.app/api?username=aluluvip&show_icons=true&theme=Gradient" width="100%" float="left">
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=aluluvip&show_icons=true&theme=Gradient" width="50%" float="left">
 
-<div class="b" style="float:right;width:48%;height:168px">
 <table width="48%" >
     <tr>
         <td rowspan="4" width="30%" align="center"><img src="img/wxtx.gif" style="width:100px; height:auto;"></td>
@@ -26,4 +23,3 @@
         <td>📧&nbsp;邮箱地址：1004545477@qq.com</td>
     </tr>
 </table>
-</div>
