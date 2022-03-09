@@ -6,7 +6,8 @@
 > 君子性非异也，善假于物也 ——《荀子·劝学》
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=aluluvip&show_icons=true&theme=Gradient" width="50%" float="left">
+<div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=aluluvip&show_icons=true&theme=Gradient" width="50%" float="left">
 
 <table width="48%" >
     <tr>
@@ -23,3 +24,4 @@
         <td>📧&nbsp;邮箱地址：1004545477@qq.com</td>
     </tr>
 </table>
+</div>
