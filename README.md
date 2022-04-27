@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-<p align="center"><a href="https://blog.luluvip.cn"><img width="100%" src="https://luluvippic.oss-cn-beijing.aliyuncs.com/img/gh-20220313.png" /></a></p>
+<img width="100%" src="https://luluvippic.oss-cn-beijing.aliyuncs.com/img/gh-20220313.png" />
 
 不知名小公司产品菜鸡一枚，I'm from China. 🇨🇳
 
