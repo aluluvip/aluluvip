@@ -1,7 +1,10 @@
 
-### Hi there 👋
+<img width="100%" src="https://luluvippic.oss-cn-beijing.aliyuncs.com/img/gh-20220313.png" />
 
-<img width="100%" src="./img/logo.png" />
+<h4 align="center">
+  <b>Hi there 👋</b>
+  <br>
+</h4>
 
 <p align="center">
   <a href="https://aluluvip.github.io">博客</a> |
