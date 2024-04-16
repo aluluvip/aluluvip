@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-<img width="100%" src="/aluluvip/img/gh-20220313.png" />
+<img width="100%" src="/aluluvip/img/logo.png" />
 
 <p align="center">
   <a href="https://aluluvip.github.io">博客</a> |
