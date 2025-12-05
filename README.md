@@ -14,5 +14,5 @@
 <br />
 
 <p align="center">
-不知名小公司产品菜鸡一枚，I'm from China. 
+君子生非异也,善假于物也。
 </p>
