@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://aluluvip.github.io">博客</a> |
-  <a href="https://weibo.com/u/2681023174">微博</a> |
   <a href="1004545477@qq.com">email</a> 
 </p>
 
